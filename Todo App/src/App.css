@@ -1,0 +1,77 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.card {
+  background: white;
+  padding: 40px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  width: 300px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+.todo-list {
+  flex-grow: 1; /* Allow the todo list to take up available space */
+  margin-bottom: 20px; /* Add space between the todo list and the input field */
+  padding: 0; /* Remove padding */
+  list-style: none; /* Remove default list styling */
+}
+
+.todo-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px;
+  border-bottom: none; /* Remove border line */
+}
+
+.todo-item:last-child {
+  border-bottom: none; /* Ensure no border on the last item */
+}
+
+.todo-item span {
+  flex-grow: 1;
+  text-align: left;
+  margin-left: 10px;
+  cursor: pointer;
+  font-weight: bold; /* Make text bold */
+  font-size: 18px; /* Increase font size */
+}
+
+.todo-item input[type="checkbox"] {
+  margin-right: 10px;
+}
+
+.todo-item button {
+  background-color: #dc3545;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+.todo-item button:hover {
+  background-color: #c82333;
+}
+
+input[type="text"] {
+  width: calc(100% - 22px);
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
