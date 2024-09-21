@@ -21,7 +21,7 @@ This is a simple memory card game built with React. The objective of the game is
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/react-memory-card-game.git
+    git clone https://github.com/JaysuryaGoski/ReactJS-Assignments/Memory-Card-Game.git
     ```
 2. Navigate to the project directory:
     ```bash
