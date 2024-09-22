@@ -1,0 +1,75 @@
+[
+    {
+      "name": "Robert Pattinson",
+      "age": 32,
+      "location": "New York, United States",
+      "bio": "Abrams was born in New York City and raised in Los Angeles.",
+      "hourlyRate": 14,
+      "role": "Film Director, Producer",
+      "imgSrc": "https://ntvb.tmsimg.com/assets/assets/487714_v9_bc.jpg",
+      "online": true,
+      "skills": ["Directing", "Producing", "Acting"]
+    },
+    {
+      "name": "Baltasar Kormákur",
+      "age": 52,
+      "location": "Reykjavik, Iceland",
+      "bio": "Icelandic actor, theater and film director, and film producer.",
+      "hourlyRate": 9,
+      "role": "Actor, Film Director",
+      "imgSrc": "https://cdn.iconscout.com/icon/free/png-256/free-gallery-icon-download-in-svg-png-gif-file-formats--photo-image-saas-icons-pack-miscellaneous-902099.png",
+      "online": false,
+      "lastSeen": "2023-09-05T12:30:00Z",
+      "starColor": "gold",
+      "skills": ["Acting", "Directing", "Producing"]
+    },
+    {
+      "name": "James Cameron",
+      "age": 67,
+      "location": "Ontario, Canada",
+      "bio": "Director, producer, and screenwriter, known for Titanic and Avatar.",
+      "hourlyRate": 20,
+      "role": "Film Director",
+      "imgSrc": "https://explorers.nationalgeographic.org/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdxw0o8aaj%2Fimage%2Fupload%2Fc_fill%2Cg_face%3Aauto%2Cw_640%2Ch_640%2Fv1%2Fexplorer_profiles%2Funf8o6see6wip8v5fsci&w=1920&q=75",
+      "online": true,
+      "skills": ["Directing", "Screenwriting", "Producing"]
+    },
+    {
+      "name": "Emma Watson",
+      "age": 30,
+      "location": "London, United Kingdom",
+      "bio": "British producer and actress.",
+      "hourlyRate": 16,
+      "role": "Film Producer, Actress",
+      "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Emma_Watson_2023_head_and_shoulders_1_%28cropped%29.jpg/640px-Emma_Watson_2023_head_and_shoulders_1_%28cropped%29.jpg",
+      "online": false,
+      "lastSeen": "2023-09-03T09:00:00Z",
+      "starColor": "gray",
+      "skills": ["Directing", "Acting", "Producing"]
+    },
+    {
+      "name": "Greta Gerwig",
+      "age": 39,
+      "location": "Sacramento, California",
+      "bio": "American actress and filmmaker, known for Lady Bird and Barbie.",
+      "hourlyRate": 18,
+      "role": "Film Director, Actress",
+      "imgSrc": "https://media.themoviedb.org/t/p/w500/3H0xzU12GTNJyQTpGysEuI9KyiQ.jpg",
+      "online": true,
+      "skills": ["Directing", "Acting", "Writing"]
+    },
+    {
+      "name": "Quentin Tarantino",
+      "age": 60,
+      "location": "Knoxville, Tennessee",
+      "bio": "American filmmaker, writer, and actor.",
+      "hourlyRate": 25,
+      "role": "Film Director, Screenwriter",
+      "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOMq-e66rwFUcai66qN3mwmGGMWe9P7ttmWg&s",
+      "online": false,
+      "lastSeen": "2023-09-01T11:45:00Z",
+      "starColor": "gold",
+      "skills": ["Directing", "Writing", "Producing"]
+    }
+  ]
+  
