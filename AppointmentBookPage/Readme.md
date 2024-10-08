@@ -1,0 +1,1 @@
+This project is a Doctor Appointment Booking System built using React.js. The web interface allows users to book, view, update, and delete appointments easily. It provides a user-friendly experience for managing doctor-patient appointments.
