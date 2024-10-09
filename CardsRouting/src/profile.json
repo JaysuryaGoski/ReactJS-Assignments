@@ -1,0 +1,26 @@
+[
+    {
+      "name": "Jeffrey Abrams",
+      "age": 51,
+      "location": "New York, United States",
+      "bio": "Abrams was born in New York City and raised in Los Angeles.",
+      "hourlyRate": 14,
+      "role": "Film Director, Producer",
+      "imgSrc": "https://ntvb.tmsimg.com/assets/assets/487714_v9_bc.jpg",
+      "online": true,
+      "skills": ["Directing", "Producing", "Writing"]
+    },
+    {
+      "name": "Baltasar Kormákur",
+      "age": 52,
+      "location": "Reykjavik, Iceland",
+      "bio": "Icelandic actor, theater and film director, and film producer.",
+      "hourlyRate": 9,
+      "role": "Actor, Film Director",
+      "imgSrc": "https://cdn.iconscout.com/icon/free/png-256/free-gallery-icon-download-in-svg-png-gif-file-formats--photo-image-saas-icons-pack-miscellaneous-902099.png?f=webp",
+      "online": false,
+      "lastSeen": "17 minutes ago",
+      "starColor": "gold",
+      "skills": ["Acting", "Directing", "Producing"]
+    }
+]
